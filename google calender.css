@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url(img/calendar.jpg);
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    background-color: transparent;
+    color : linear-gradient(to right ,#ff105f,#ffad06);
+    text-align: center;
+}
+
+iframe{
+  padding-left: 150px;
+  border-color: linear-gradient(to right ,#ff105f,#ffad06);
+  align-content: center;
+  padding-right: 50px;
+}
+
+.footer{
+    color: whitesmoke;
+    text-align: center;
+}

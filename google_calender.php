@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Calender of Events</title>
+        <link rel="stylesheet" href="google%20calender.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="header">
+       
+          <h1 style="background-color:#ffad06;color:aquamarine">MADE IN HEAVEN</h1>
+          <h2 style="background-color:#ed3806;color:aquamarine">My Calender</h2>
+        </div>
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23D50000&ctz=Asia%2FKolkata&showPrint=0&src=cnNwamQ5YWw2ajJhM211MWhvYTZpdWdqdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=dHA2OWEyaWxlNGE1bmRrYzE0YWwwbDVmdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23616161&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        
+            <h3 >Copyright &copy; 2022 The Wedding Planners </h3>
+        </div>
+    </body>
+</html>
